@@ -1,4 +1,4 @@
-#!/bin/bash'
+#!/bin/bash
 # Author: Landmark Technology
 # CentOs or REHEL 7/8
 
